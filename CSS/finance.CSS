@@ -1,0 +1,225 @@
+.bgimg{
+    background-image: url(../images/6.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bgcap{
+     background-color: black;
+     opacity: .9;
+     width: 40%;
+     height: max-content;
+     
+}
+
+.my-carousel-caption {
+    position: absolute;
+    right: 15%;
+    top: 1.25rem;
+    left: 15%;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: #fff;
+    text-align: left;
+  }
+
+  h1{
+    font-family: 'Staatliches', cursive;
+    font-size: 3rem;
+  }
+
+  h2{
+    font-family: 'Staatliches', cursive;
+    font-size: 2rem;
+  }
+
+
+  h4{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1rem;
+    text-transform: uppercase;
+    color: #F2C166;
+
+  }
+
+  .sideline{
+    border-left: 6px solid #F2C166; 
+   
+  }
+
+  .iconsetting{
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+  }
+
+  .fa-phone-volume {
+    padding-top: 26px;
+  }
+
+  h5{
+    font-weight: bold;
+    font-size: 1.3rem;
+  }
+
+  .fa-hourglass-start{
+    padding-top: 26px;
+
+  }
+
+  .fa-creative-commons-share{
+    padding-top: 26px;
+  }
+
+  .box{
+    border: 1px solid gray;
+    box-sizing: border-box;
+    padding: 15px;
+   
+  }
+
+  .box h4{
+    color: black;
+    font-weight: bold;
+  }
+
+  .box-red{
+    border: 1px solid #141E26;
+    box-sizing: border-box;
+    padding: 15px;
+    background-color: #F2C166;
+    color: white;
+   
+  }
+
+  .box-red h4{
+    color: white;
+    font-weight: bold;
+  }
+
+  .margin{
+    margin: 0 0 0 auto;
+  }
+
+
+  
+
+  .box:hover{
+    border: 2px solid #141E26;
+    box-sizing: border-box;
+    padding: 15px;
+    background-color: #F2C166;
+    color: white; !important;
+    
+  }
+
+  .bgprojcet{
+    background-image: url(../images/10.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+  }
+
+  .nav-link:hover{
+    background-color:#F2C166 ;
+    color: white;!important;
+    
+  }
+
+  
+  .card-body h4{
+    color:#F2C166;
+  }
+
+
+  .card-body:hover{
+    background-color:#141E26; 
+    color: white; !important;
+        
+  }
+
+  .card-body btn-gold:hover{
+    background-color:#F2CA99; 
+    color: white; !important;
+        
+  }
+
+  .card-img-top:hover{
+    filter: grayscale(.5);
+  }
+
+  .cardimg{
+    filter: grayscale(100%);
+    filter: opacity(.8);
+  }
+
+  .cardimg:hover{
+    color: #F2C166;
+  }
+
+  .list-footer{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .fas::before{
+    padding-right: 10px;
+  }
+
+  h2{
+
+  }
+
+  .bg-gold{
+    background-color: #F2C166 !important;
+  }
+
+  .btn-gold {
+    color: #fff;
+    background-color: #F2C166;
+    border-color: #D99D55;
+  }
+  .btn-gold:hover {
+    color: #fff;
+    background-color: #D99D55;
+    border-color: #141E26;
+  }
+
+  .text-gold {
+    color: #F2C166 !important;
+  }
+
+  @media (max-width:479px){
+    h1{
+      font-family: 'Staatliches', cursive;
+      font-size: 2rem;
+    }
+  
+    h2{
+      font-family: 'Staatliches', cursive;
+      font-size: 1.5rem;
+    }
+
+    .fa-phone-volume {
+      padding-top: 35px;
+      padding-right: auto;
+      padding-left: auto;
+      margin: 0;
+    }
+
+    .fa-hourglass-start{
+      padding-top: 35px;
+      padding-right: auto;
+      padding-left: auto;
+      margin: 0;
+  
+    }
+
+   
+
+
+
+
+/*font-family: 'Merriweather', serif;
+font-family: 'Montserrat', sans-serif;*/
